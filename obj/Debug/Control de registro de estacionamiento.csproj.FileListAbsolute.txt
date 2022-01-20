@@ -1,0 +1,10 @@
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\bin\Debug\Control de registro de estacionamiento.exe.config
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\bin\Debug\Control de registro de estacionamiento.exe
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\bin\Debug\Control de registro de estacionamiento.pdb
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control de registro de estacionamiento.csprojAssemblyReference.cache
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control_de_registro_de_estacionamiento.Form1.resources
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control_de_registro_de_estacionamiento.Properties.Resources.resources
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control de registro de estacionamiento.csproj.GenerateResource.cache
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control de registro de estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control de registro de estacionamiento.exe
+C:\Users\JADPA-17\source\repos\Control de registro de estacionamiento\Control de registro de estacionamiento\obj\Debug\Control de registro de estacionamiento.pdb
